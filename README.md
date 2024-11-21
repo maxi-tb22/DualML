@@ -1,7 +1,7 @@
 # DualML #
 Accompanying repository for: 
 
-Goulet Coulombe, Philippe and Göbel, Maximilian and Klieber, Karin (2024): "Dual Interpretation of Machine Learning Forecasts"
+Goulet Coulombe, Philippe and Göbel, Maximilian and Klieber, Karin: "Dual Interpretation of Machine Learning Forecasts", 2024.
 
 <br>
 
