@@ -14,6 +14,8 @@ Having trained his very own proprietry model, the researcher can use the functio
 On top of that, we also provide some example code (``DualML_run_inflation.R``), which is a replication of our inflation application for horizon ``h=1``.
 
 
+**Note**: the current machinery only complies with regression-type models. The implementation for binary classification-type models will be made available soon.
+
 
 ## Brief Overview of Files in this Repository ##
 
