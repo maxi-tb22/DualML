@@ -16,14 +16,19 @@ Goulet Coulombe, Philippe and Göbel, Maximilian and Klieber, Karin (2024): "Dua
 
 ReadMe on how to use the function ``DualML``.
 
+<br>
 
 **DualML.R**
 
 Contains the main function ``DualML``, which generates observation weights, observation contributions and accompanying evaluation metrics (forecast concentration, short position, leverage, turnover).
+
+<br>
     
 **DualML_run_inflation.R**
 
 Example code of the application: inflation forecasting at horizon ``h=1``.
+
+<br>
   
 **US_data.csv**
 
