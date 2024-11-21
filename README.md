@@ -12,13 +12,16 @@ Goulet Coulombe, Philippe and Göbel, Maximilian and Klieber, Karin (2024): "Dua
 
 <br>
 
-  -  ReadME_DualML.txt:&emsp;&emsp;&emsp;&emsp;a ReadMe on how to use the function ``DualML``.
+### ReadME_DualML.txt
+ReadMe on how to use the function ``DualML``.
 
-  -  DualML.R:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;contains the main function ``DualML``, which generates observation weights, observation contributions,
-     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;and accompanying evaluation metrics (forecast concentration, short position, leverage, turnover).
+### DualML.R
+Contains the main function ``DualML``, which generates observation weights, observation contributions and accompanying evaluation metrics (forecast concentration, short position, leverage, turnover).
     
-  -  DualML_run_inflation.R:&emsp;&emsp;&ensp;&nbsp;example code of the application: inflation forecasting at horizon ``h=1``.
+### DualML_run_inflation.R
+Example code of the application: inflation forecasting at horizon ``h=1``.
   
-  -  US_data.csv:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;the data file for running the example in ``DualML_run_inflation.R``.
+### US_data.csv
+Data file for running the example in ``DualML_run_inflation.R``.
 
 
