@@ -31,13 +31,13 @@ Contains the main function ``DualML``, which generates observation weights, obse
 
 Currently implemented models:
 
- - 'OLS':&emsp;any type of model that was fitted via OLS, for which coefficients can be estimated in the PRIMAL SPACE as: $\quad \hat{\beta} = (X^\mathrm{T} X)^{-1} X^\mathrm{T}y$
+ - 'OLS':&emsp;any type of model that was fitted via OLS: $\quad \hat{\beta} = (X^\mathrm{T} X)^{-1} X^\mathrm{T}y$
 
  - 'RF':&emsp;&ensp;&nbsp;an object of type ``ranger``
 
  - 'LGB':&emsp;an object of type ``lightgbm``
 
- - 'RR':&emsp;&ensp;&nbsp;a ridge-regression model, for which coefficients can be estimated in the PRIMAL SPACE as: $\quad \hat{\beta} = (X^\mathrm{T}X + \lambda*I_N)^{-1} X^\mathrm{T}y$
+ - 'RR':&emsp;&ensp;&nbsp;a ridge-regression model: $\quad \hat{\beta} = (X^\mathrm{T}X + \lambda*I_N)^{-1} X^\mathrm{T}y$
 
  - 'KRR':&emsp;a kernel-based ridge-regression model, in which forecasts are generated as: $\quad \hat{y} = K\left(K + \lambda*I_N\right)^{-1} y$
 
