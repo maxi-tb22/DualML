@@ -5,7 +5,7 @@ Goulet Coulombe, Philippe and Göbel, Maximilian and Klieber, Karin (2024): "Dua
 
 <br>
 
-<hr>
+
 
 ## How to use this Reporsitory
 
@@ -13,7 +13,7 @@ Having trained his very own proprietry model, the researcher can use the functio
 
 On top of that, we also provide some example code (``DualML_run_inflation.R``), which is a replication of our inflation application for horizon ``h=1``.
 
-<hr>
+
 
 ## Brief Overview of Files in this Repository ##
 
@@ -22,6 +22,8 @@ On top of that, we also provide some example code (``DualML_run_inflation.R``), 
 **ReadME_DualML.txt**
 
 ReadMe on how to use the function ``DualML``.
+
+<hr>
 
 <br>
 
@@ -44,11 +46,15 @@ Currently implemented models:
 
 **Note**: our 'NN' is not included in the example code as it does not featured in our example code, but will be shipped with a future version, once I have found the time to wrap all this into a proper package.
 
+<hr>
+
 <br>
     
 **DualML_run_inflation.R**
 
 Example code of the application: inflation forecasting at horizon ``h=1``.
+
+<hr>
 
 <br>
   
