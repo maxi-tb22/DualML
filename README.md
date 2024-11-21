@@ -9,9 +9,9 @@ Goulet Coulombe, Philippe and Göbel, Maximilian and Klieber, Karin (2024): "Dua
 
 ## How to use this Reporsitory
 
-The basic idea is the following: having trained his very own proprietry model, the researcher can use the function ``DualML`` to extract **observation weights**, **observation contributions**, and the corresponding metrics (**forecast concentration, short position, leverage, turnover**), as described in the paper.
+Having trained his very own proprietry model, the researcher can use the function ``DualML`` to extract **observation weights**, **observation contributions**, and the corresponding metrics (**forecast concentration, short position, leverage, turnover**), as described in the paper.
 
-Yet, we also provide some example code (``DualML_run_inflation.R``), which is a replication of our inflation application for horizon ``h=1``.
+On top of that, we also provide some example code (``DualML_run_inflation.R``), which is a replication of our inflation application for horizon ``h=1``.
 
 <hr>
 
