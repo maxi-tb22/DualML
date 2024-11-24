@@ -1,7 +1,7 @@
 # DualML #
 Accompanying repository for: 
 
-Goulet Coulombe, Philippe and Göbel, Maximilian and Klieber, Karin: "Dual Interpretation of Machine Learning Forecasts", 2024.
+Goulet Coulombe, Philippe and Göbel, Maximilian and Klieber, Karin (2024): [Dual Interpretation of Machine Learning Forecasts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5029492).
 
 <br>
 
@@ -45,12 +45,17 @@ Currently implemented models:
 
  - 'KRR':&emsp;a kernel-based ridge-regression model, in which forecasts are generated as: $\quad \hat{y} = K\left(K + \lambda*I_N\right)^{-1} y$
 
-
-**Note**: our 'NN' is not included in the example code as it does not featured in our example code, but will be shipped with a future version, once I have found the time to wrap all this into a proper package.
+ - 'NN':&emsp;&ensp;an object that was fitted using the provided ``MLP.R``-function
 
 <hr>
 
 <br>
+
+**MLP.R**
+
+The function calling the 'NN'.
+
+<hr>
     
 **DualML_run_inflation.R**
 
