@@ -59,7 +59,7 @@ The function calling the 'NN'.
     
 **DualML_run_inflation.R**
 
-Example code of the application: inflation forecasting at horizon ``h=1``.
+Example code for application: inflation forecasting at horizon ``h=1``.
 
 <hr>
 
