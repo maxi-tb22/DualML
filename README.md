@@ -7,7 +7,7 @@ Goulet Coulombe, Philippe and Göbel, Maximilian and Klieber, Karin (2024): [Dua
 
 
 
-## How to use this Reporsitory
+## How to use this Repository
 
 Having trained his very own proprietry model, the researcher can use the function ``DualML`` to extract **observation weights**, **observation contributions**, and the corresponding metrics (**forecast concentration, short position, leverage, turnover**), as described in the paper.
 
