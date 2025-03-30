@@ -20,9 +20,9 @@ library(pracma)
 library(kernlab)
 library(glmnet)
 
-directory <- '~/Dropbox/DualRoute/02_code/50_Max/002_packaging/'
-source(file.path(directory,'/DualML.R'))
-source(file.path(directory,'/MLP.R'))
+directory <- '[INSERT YOUR DIRECTORY HERE]'
+source(paste0(directory,'/DualML.R'))
+source(paste0(directory,'/MLP.R'))
 
 
 # ----------------------------------------   Auxiliary Functions ---------------------------------------- #
